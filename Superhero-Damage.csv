@@ -1,0 +1,18 @@
+Movie,Universe,Hero,Villian,Property Damage Heroes,Property Damage Villians,Location of Main Damage,Financial Damage
+Avengers: Age of Ultron,Marvel,0,1,1 City,3 Buildings,Sokovia,4.87E+11
+Guardians of the Galaxy,Marvel,0,1,5 Space Vehicles,1 City,Outer Space,N/A
+Iron Man 3,Marvel,1,0,1 Shipyard,4 Buildings,"Miami, Florida",500000000
+Man of Steel,DC,1,0,1 City,2 Buildings,Metropolis,2E+12
+The Dark Knight Rises,DC,0,1,1 Window,1 Stadium,Gotham City,720000000
+Captain America: Winter Soldier,Marvel,1,0,3 Helicarriers,1 Building,"Washington, D.C.",N/A
+Thor: The Dark World,Marvel,0,1,1 College,1 College,"London, England",250000000
+The Amazing Spider-Man 2,Marvel,0,1,1 Phone Booth,1 City,"New York City, New York",20000000000
+Fantastic Four,Marvel,0,1,1 UAV,1 Highway,"New York City, New York",20000000
+X-Men: Days of Future Past,Marvel,0,1,1 Floor,1 Building,"Washington, D.C.",60000000
+The Avengers,Marvel,0,1,10 Vehicles,1 City,"New York City, New York",1.6E+11
+The Dark Knight ,DC,0,1,1 Batbike,3 Buildings,Gotham City,2000083379
+Wonder Woman,DC,0,1,1 Military Base,1 Military Base,"Western Front, Europe",15000000
+The Green Lantern,DC,0,1,1 Satillite,1 City,Coast City,20000000000
+Suicide Squad,DC,0,1,1 Building,1 City,Midway City,20000000000
+Batman v. Superman,DC,0,1,1 Building,1 Neighborhood,Metropolis,50000000
+Watchmen,DC,0,1,1 Building,10+ Cities,"New York City, New York",N/A
